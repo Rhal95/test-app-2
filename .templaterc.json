@@ -1,0 +1,16 @@
+{
+  "files": [
+    "index.html",
+    "eslint.cjs",
+    ".gitignore",
+    ".env.template",
+    "vite.config.ts",
+    "tsconfig.json",
+    "tsconfig.node.json",
+    ".storybook/*",
+    "src/main.tsx",
+    "src/vite-env.d.ts"
+  ],
+  "npmDependencies": true,
+  "npmScripts": true
+}
